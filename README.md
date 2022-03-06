@@ -42,7 +42,7 @@ Anime News Network (www.animenewsnetwork.com) is one of the most trusted anime n
 
 *Tab 3: Search the Anime Database*
 *	This serves as a mini search engine. The focus is on individual titles
-*	The user enters text in the search bar. The dashboard returns the top 5 results. The logic behind the search is stringdistmatrix, which computes the distance between strings.
+*	The user enters text in the search bar. The dashboard returns the top 5 results. The logic behind the search is stringdistmatrix, which computes the distance between strings
 *	Once the top 5 research results appear, an action button also appears along with each result. The user can select any of the 5 entries. The action button takes the user to the results mini tab and display the following information specific to the selection
   *	Anime title, vintage year
   *	Absolute ranking in votes, ratings for selected vintage year or all years
