@@ -4,9 +4,15 @@
 ---
 In this project I attempt to create an interactive dashboard using R shiny framework.  I collect the data from the Anime News Network official API.  The dashboard will allow the user to (1) see Top 1 – Top 10 Anime Titles by year and type, dominant genres represented by these Anime Tittles, (2) examine the trend in key metrics such as number of votes, review ratings by selecting start/end year and a particular genre, (3) look for a particular anime title using name search in a mini search engine. The search feature will let the user pick any title given the Top 5 search results and examine how the selected title compares to all other titles in the same vintage year or all years combined. The key metrics compared are displayed in terms of absolute ranking and percentile ranking.
 
-**Dashboard Deployed**
+**Dashboard Deployed to Heroku**
 ---
 Please check out the dashboard at https://anime-shiny-dashboard.herokuapp.com/
+
+* Here are some screenshots
+![](img/screen1.JPG)
+![](img/screen2.JPG)
+![](img/screen3.JPG)
+![](img/screen4.JPG)
 
 **Step 1: Data Preparation and Cleaning**
 ---
