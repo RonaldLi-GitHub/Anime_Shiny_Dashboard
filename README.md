@@ -30,7 +30,7 @@ Anime News Network (www.animenewsnetwork.com) is one of the most trusted anime n
 ---
 [ui.R](https://github.com/RonaldLi-GitHub/Anime_Shiny_Dashboard/blob/main/ui.R) and [server.R](https://github.com/RonaldLi-GitHub/Anime_Shiny_Dashboard/blob/main/server.R) contain the code for this section. Ui.R refers to the user interface. Server.R refers to logic behind the visualization and user interactions.
 
-*Tab 1: Top N Anime Title*
+*Tab 1: Top N Anime Titles*
 *	Drop-down list for Vintage Year and Type and a slider for Top 1 to Top 10 are placed 
 *	Horizontal bar charts are displayed in descending order of the key metrics 
 *	Word cloud is placed next to the bar charts to display the most common genres found in the Top N anime titles
